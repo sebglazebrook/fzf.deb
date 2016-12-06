@@ -1,0 +1,8 @@
+Package: fzf
+Version: <<VERSION_NUMBER>>
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
+Description: FZF
+  Command line fuzzy finder
